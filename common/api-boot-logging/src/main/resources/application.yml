@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: api-boot-center
+  profiles:
+    active: dev
